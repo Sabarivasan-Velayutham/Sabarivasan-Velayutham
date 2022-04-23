@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarivasan-velayutham&label=Profile%20views&color=0e75b6&style=flat" alt="sabarivasan-velayutham" height="30"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabarivasan-velayutham" alt="sabarivasan-velayutham" height="150"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabarivasan-velayutham" alt="sabarivasan-velayutham" height="170"/></a> </p>
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
@@ -27,9 +27,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarivasan-velayutham&show_icons=true&locale=en&layout=compact" alt="sabarivasan-velayutham" height="200"/></p>
 
-
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sabarivasan-velayutham&show_icons=true&locale=en" alt="sabarivasan-velayutham" height="200"/></p>
-
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarivasan-velayutham&" alt="sabarivasan-velayutham" height="200"/></p>
 
