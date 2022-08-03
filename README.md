@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarivasan-velayutham&label=Profile%20views&color=0e75b6&style=flat" alt="sabarivasan-velayutham" height="30"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabarivasan-velayutham" alt="sabarivasan-velayutham" height="170"/></a> </p>
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
