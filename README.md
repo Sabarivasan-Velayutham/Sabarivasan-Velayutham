@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
-- 💬 Ask me about **Python , C , C++ , Javascript , ReactJS**
+- 💬 Ask me about **Python , C , C++ , Javascript , ReactJS, React-Native**
 
 - 📫 How to reach me **sabari_vasan@hotmail.com**
 
