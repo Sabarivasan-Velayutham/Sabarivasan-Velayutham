@@ -10,9 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sabarivasan-velayutham-06a696210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabarivasan-velayutham-06a696210" height="40" width="50" /></a>
-<a href="https://instagram.com/sabarivasan_20?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabarivasan_20" height="40" width="50" /></a>
-<a href="discordapp.com/users/sabarivasan_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabarivasan_007" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/sabarivasan-velayutham-06a696210/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabarivasan-velayutham-06a696210" height="40" width="50" /></a>
+<a href="https://instagram.com/sabarivasan_20?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabarivasan_20" height="40" width="50" /></a>
+<a href="discordapp.com/users/sabarivasan_007" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabarivasan_007" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
