@@ -2,22 +2,17 @@
 ![header photo](https://github.com/Sabarivasan-Velayutham/Sabarivasan-Velayutham/blob/main/header.png)
 
 <!-- <h1 align="center">Hi 👋, I'm Sabarivasan</h1> -->
-<h3 align="center">A CS Undergraduate at SSN College of Engineering in Chennai with a passion for Web development and Machine learning. </h3>
+<h3 align="center">A CS Undergraduate at SSN College of Engineering in Chennai with a passion for Web Development and Data Analysis. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarivasan-velayutham&label=Profile%20views&color=0e75b6&style=flat" alt="sabarivasan-velayutham" height="30"/> </p>
 
-
-- 🌱 I’m currently learning **Web Development and Machine Learning**
-
-- 💬 Ask me about **Python , C , C++ , Javascript , ReactJS, React-Native**
-
-- 📫 How to reach me **sabari_vasan@hotmail.com**
+- 📫 How to reach me **sabarivasanssn2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sabarivasan velayutham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabarivasan velayutham" height="40" width="50" /></a>
-<a href="https://instagram.com/sabarivasan_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabarivasan_20" height="40" width="50" /></a>
-<a href="https://discord.gg/SABARIVASAN#0125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SABARIVASAN#0125" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/sabarivasan-velayutham-06a696210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabarivasan-velayutham-06a696210" height="40" width="50" /></a>
+<a href="https://instagram.com/sabarivasan_20?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabarivasan_20" height="40" width="50" /></a>
+<a href="discordapp.com/users/sabarivasan_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sabarivasan_007" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
