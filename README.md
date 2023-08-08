@@ -43,9 +43,7 @@
 
 ## 📊 My GitHub Data:
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarivasan-velayutham&show_icons=true&locale=en&layout=compact" alt="sabarivasan-velayutham" height="200"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Sabarivasan-Velayutham&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="sabarivasan's github stats" width="48%" >
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=sabarivasan-velayutham&show_icons=true&locale=en" alt="sabarivasan-velayutham" height="200"/></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabarivasan-velayutham&" alt="sabarivasan-velayutham" height="200"/></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabarivasan-Velayutham&theme=github_dark&hide_border=true" alt="rakesh's github streak" width="48%" >
 
