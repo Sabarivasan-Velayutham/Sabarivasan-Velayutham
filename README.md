@@ -6,6 +6,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarivasan-velayutham&label=Profile%20views&color=0e75b6&style=flat" alt="sabarivasan-velayutham" height="30"/> </p>
 
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+
+- 🙋‍♂️ All about me is at **[My Website]([https://soumyajit.vercel.app/](https://sabarivasan-velayutham-portfolio.onrender.com/))**
+
+- 🔭 I’m currently working on `Something Interesting`.
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
 - 📫 How to reach me **sabarivasanssn2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
