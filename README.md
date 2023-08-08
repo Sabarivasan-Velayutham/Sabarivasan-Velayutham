@@ -10,7 +10,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website]([https://soumyajit.vercel.app/](https://sabarivasan-velayutham-portfolio.onrender.com/))**
+- 🙋‍♂️ All about me is at **[My Website](https://sabarivasan-velayutham-portfolio.onrender.com/)**
 
 - 🔭 I’m currently working on `Something Interesting`.
 
